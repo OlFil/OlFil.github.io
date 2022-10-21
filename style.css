@@ -1,0 +1,93 @@
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background-color: #5CDB95 ;
+
+}
+
+#Landing{
+    display: flex;
+}
+h1{
+    color: #EDF5E1 ;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 70px;
+    margin-left: 45px;
+}
+
+h2{
+    color: #EDF5E1 ;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin-left: 45px;
+}
+.logo{
+    height: 120px;
+    padding-left: 20px;
+}
+
+nav{
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    color: #EDF5E1 ;
+    display: flex;
+}
+
+nav li{
+    display: block;
+    float:left;
+    padding-left: 20px;
+    margin-right:70px;
+    padding-top: 30px;
+}
+a{
+    text-decoration: none;
+    color:#05386B;
+     
+ }
+
+.comp{
+    height: 40rem;
+    margin-right: 25px;
+}
+
+article{
+    font-family: 'Russo One', sans-serif;
+    color:#379683 ;
+    font-size: 2rem;
+    margin-left: 50px;
+}
+
+article p{
+    text-align: justify;
+    width: 90vw;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td,th{
+    border: 2px solid #379683;
+}
+
+#Lab3 img {
+    margin-left: 70px;
+}
+
+footer{
+   /* display: flex;*/
+   margin-top: 100px;
+    color:#379683 ;
+    font-family: 'Russo One', sans-serif;
+    font-size: 20px;
+    display: flex;
+}
+
+footer span {
+    text-align: center;
+    width: 33vw;
+}
