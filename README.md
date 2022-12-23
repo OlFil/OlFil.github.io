@@ -50,3 +50,4 @@
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №22](https://github.com/stankin/inet-2022/wiki/exam22)
+Ответ на билет(были даны развернутые дополнения к двум вопросам в билете: <a href="https://github.com/stankin/inet-2022/wiki/exam22/_compare/7f747404fc6945dc0f3a1bea5a4b0c9bad00724e...a1901261b103f83aae0018a07d85455f2f132251">Разница ревизий</a>.
